@@ -1,0 +1,29 @@
+body{
+    background: url(images/paintbg.jpg) center center fixed;
+    background-size: cover;
+    text-align: center;
+}
+
+#header{
+    background: linear-gradient(white, rgba(67, 169, 228, 0.9));
+    background: -webkit-linear-gradient(white, rgba(67, 169, 228, 0.9));
+    background: -o-linear-gradient(white, rgba(67, 169, 228, 0.9));
+    background: -moz-linear-gradient(white, rgba(67, 169, 228, 0.9));
+    background: -ms-linear-gradient(white, rgba(67, 169, 228, 0.9));
+    height: 80px;
+    width: 500px;
+    margin: 10px auto;
+    font-size: 3em;
+    color: white;
+    line-height: 80px;
+}
+
+.inputContainer{
+    width: 200px;
+    margin: 0 auto;
+}
+
+.input{
+    height: 30px;
+    font-size: 1.3em;
+}
